@@ -4,7 +4,7 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
-## IGNORE THE STATS FOR TRAIN THE MODEL.
+IGNORE THE STATISTICS OF TRAIN THE MODEL IN ORIGINAL MODEL AND MODEL IMPLEMENTED USING TRANSFER LEARNING.
 
 ## Project Overview
 
